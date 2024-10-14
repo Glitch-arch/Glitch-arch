@@ -1,17 +1,48 @@
 # 💫 About Me:
-Hello! I am a fullstack developer currently working on an exciting EdTech project. As a fullstack developer, I possess a diverse skill set and have expertise in both frontend and backend development. My role involves creating user-friendly and visually appealing interfaces on the frontend, as well as building robust and efficient server-side components on the backend.<br><br>In my current project in the EdTech domain, I am actively involved in developing innovative solutions to enhance the learning experience for students. This involves working closely with educators and designers to create interactive and engaging platforms that facilitate effective teaching and learning.<br><br>Additionally, I am also focusing on learning DevOps, which is a set of practices aimed at streamlining the software development lifecycle and improving collaboration between development and operations teams. By acquiring DevOps skills, I aim to automate processes, ensure efficient deployment and scalability, and enhance the overall reliability and performance of the applications I build.<br><br>I am passionate about leveraging technology to make a positive impact on education, and I'm constantly seeking opportunities to enhance my skills and stay up-to-date with the latest industry trends.
-
+🎓 Recent graduate | 💼 Ex-Full Stack Intern in AI-Powered Resume Screening<br>
+🚀 Full-stack dev passionate about backend, AI, and cloud tech<br>
+💻 TypeScript | NestJS | NextJS | MongoDB | Prisma | Google Cloud<br>
+🤖 LangChain | OpenAI | Gemini | Pinecone | Docker | Redis<br>
+🛠️ Projects:<br>
+   • CodeWizards: Lean backend for coding challenges<br>
+   • NoCodeSSG: AI-powered dynamic webpage generator<br>
+🌟 RESTful APIs | AI Chatbots | Cloud Deployment (GCE, Vercel)<br>
+🌱 Always learning, building, and open to exciting opportunities!
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Glitch-arch&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Glitch-arch&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Glitch-arch&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Compute Engine](https://img.shields.io/badge/GCE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=react&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-black?style=for-the-badge&logo=next.js&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Glitch-arch&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=glitch-arch&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=glitch-arch&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glitch-arch&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Glitch-arch&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=glitch-arch&icon=6&color=7)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
