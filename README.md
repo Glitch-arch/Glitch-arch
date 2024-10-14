@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Recent graduate | 💼 Ex-Full Stack Intern, Worked on AI-Powered Resume Screening Tool<br>
+🎓 Recent graduate | 💼 Ex-Full Stack Intern, Worked on AI-Powered Resume Screening Tool and RAG System<br>
 🚀 Full-stack dev passionate about backend, AI, and cloud tech<br>
 💻 TypeScript | NestJS | NextJS | MongoDB | Prisma | Google Cloud<br>
 🤖 LangChain | OpenAI | Gemini | Pinecone | Docker | Redis<br>
