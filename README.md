@@ -1,12 +1,12 @@
 # 💫 About Me:
-🎓 Recent graduate | 💼 Ex-Full Stack Intern in AI-Powered Resume Screening<br>
+🎓 Recent graduate | 💼 Ex-Full Stack Intern, Worked on AI-Powered Resume Screening Tool<br>
 🚀 Full-stack dev passionate about backend, AI, and cloud tech<br>
 💻 TypeScript | NestJS | NextJS | MongoDB | Prisma | Google Cloud<br>
 🤖 LangChain | OpenAI | Gemini | Pinecone | Docker | Redis<br>
 🛠️ Projects:<br>
    • CodeWizards: Lean backend for coding challenges<br>
    • NoCodeSSG: AI-powered dynamic webpage generator<br>
-🌟 RESTful APIs | AI Chatbots | Cloud Deployment (GCE, Vercel)<br>
+🌟 RESTful APIs | AI Chatbots | Cloud Deployment (GCE, Vercel, AWS)<br>
 🌱 Always learning, building, and open to exciting opportunities!
 
 # 💻 Tech Stack:
